@@ -6,7 +6,7 @@
 body {
     font-family: Oswald, Verdana, Tahoma, sans-serif;
     font-size: clamp(1rem, 3vw, 2rem);
-    background-image: url('/imagenes/fondos.jpg'); /* imagen de fondo */
+    background-image: url("/imagenes/fondos.jpg"); /* imagen de fondo */
     background-size: cover; 
     background-position: center center;
     background-attachment: fixed;
