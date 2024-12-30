@@ -1,4 +1,4 @@
-// Lista de criptomonedas (puedes obtenerlas de una API o crear manualmente)
+// Lista de criptomonedas
 let criptomonedas = [
   {
       id: 1,
